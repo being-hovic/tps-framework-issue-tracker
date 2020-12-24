@@ -1,5 +1,5 @@
-## op-framework
-The 'OP Framework' project has in goal to provide a fully functional FiveM roleplay server with advanced and highly developed features, all made from scratch.
+## tps-framework
+The 'TPS Framework' project has in goal to provide a fully functional FiveM roleplay server with advanced and highly developed features, all made from scratch.
 
 All development is done by me (@InZidiuZ#6969). No development will be rushed, making sure it is done thoroughly. I expect to regularly push updates introducing new features, bug fixes and balancing changes.
 
