@@ -3,10 +3,10 @@ The 'TPS Framework' project has in goal to provide a fully functional FiveM role
 
 All development is done by me (@InZidiuZ#6969). No development will be rushed, making sure it is done thoroughly. I expect to regularly push updates introducing new features, bug fixes and balancing changes.
 
-For more information, join the official [OP-FW discord guild](https://discord.gg/yRBWkjb).
+For more information, join the official [TPS-FW discord guild](https://discord.gg/Y4EbJNZg8q).
 
 ## Issues
-It is requested that you report any issues you may encounter with the OP Framework in the "Issues" tab in this GitHub repository.
+It is requested that you report any issues you may encounter with the TPS Framework in the "Issues" tab in this GitHub repository.
 
 Issues related to assets, should at this time be reported in [this](https://github.com/InZidiuZ/legacy-assets-issue-tracker) GitHub repository.
 
